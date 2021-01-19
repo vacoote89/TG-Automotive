@@ -12,7 +12,7 @@ The TG Automotive repair company performs the following routine maintenance serv
 - Muffler replacement—$200.00
 - Tire rotation—$20.00
 
-TG Automotive also performs other nonroutine services and charges for parts and labor ($60 per hour). Create an application that displays the total for a customer’s visit to the shop. A sample user interface for the application appears in Figure 6-27. Your source code should contain functions, such as the ones listed here, that validate inputs and calculate the various parts of the bill:
+TG Automotive also performs other nonroutine services and charges for parts and labor ($60 per hour). Create an application that displays the total for a customer’s visit to the shop. A sample user interface for the application appears in the figure. Your source code should contain functions, such as the ones listed here, that validate inputs and calculate the various parts of the bill:
 
 ```
 /**
