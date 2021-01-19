@@ -80,9 +80,5 @@ namespace TG_Automotive
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
